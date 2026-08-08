@@ -32,3 +32,9 @@ services:
     privileged: true
 ```
 ---
+
+#### vs terminal e command daw
+```bash
+docker compose up -d
+```
+---
