@@ -84,3 +84,9 @@ alpine:latest
 ```
 > successfully runner register hoye jabe.
 ---
+
+#### vs terminal e command daw
+```bash
+docker restart my-gitlab-runner
+```
+---
