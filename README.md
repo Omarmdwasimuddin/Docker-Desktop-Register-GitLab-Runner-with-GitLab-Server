@@ -41,3 +41,8 @@ docker compose up -d
 ![](https://imgur.com/YW9BDYl.png)
 
 ---
+
+#### browser e http://localhost:8000/ open koro
+#### project create koro--->Project name, Project URL, Project slug, Visibility Level: public etc value diye project create koro.
+#### click koro: Admin --->click koro: CI/CD --->click koro: Runners --->copy koro: registration tokens
+![](https://imgur.com/ZUrq5JE.png)
