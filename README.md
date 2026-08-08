@@ -46,3 +46,36 @@ docker compose up -d
 #### project create koro--->Project name, Project URL, Project slug, Visibility Level: public etc value diye project create koro.
 #### click koro: Admin --->click koro: CI/CD --->click koro: Runners --->copy koro: registration tokens
 ![](https://imgur.com/ZUrq5JE.png)
+
+---
+
+#### vs terminal e command daw
+```bash
+docker exec -it my-gitlab-runner gitlab-runner register
+```
+#### Enter the GitLab instance URL (for example, https://gitlab.com/):
+```bash
+http://my-gitlab-server
+```
+#### Enter the registration token:
+```bash
+paste kore daw
+```
+#### Enter a description for the runner:
+> description ja iccah deya jai
+```bash
+my-docker-runner
+```
+#### Enter tags for the runner (comma-separated):
+```bash
+docker
+```
+#### Enter optional maintenance note for the runner:
+```bash
+docker
+```
+#### Enter an executor: docker, docker-windows, docker+machine, kubernetes, virtualbox, shell, custom, instance, docker-autoscaler, ssh, parallels:
+```bash
+docker
+```
+---
