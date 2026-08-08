@@ -1,1 +1,1 @@
-# Docker-Desktop-Register-GitLab-Runner-with-GitLab-Server
+# Docker Desktop: Register GitLab Runner with GitLab Server
