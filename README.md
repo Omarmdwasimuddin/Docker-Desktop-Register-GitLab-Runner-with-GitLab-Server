@@ -89,4 +89,8 @@ alpine:latest
 ```bash
 docker restart my-gitlab-runner
 ```
+#### check
+```bash
+docker exec -it my-gitlab-runner gitlab-runner list
+```
 ---
