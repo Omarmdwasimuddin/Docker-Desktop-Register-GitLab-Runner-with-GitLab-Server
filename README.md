@@ -37,4 +37,7 @@ services:
 ```bash
 docker compose up -d
 ```
+> my-gitlab-server and my-gitlab-runner running hoye jabe.
+![](https://imgur.com/YW9BDYl.png)
+
 ---
