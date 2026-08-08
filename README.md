@@ -94,3 +94,6 @@ docker restart my-gitlab-runner
 docker exec -it my-gitlab-runner gitlab-runner list
 ```
 ---
+
+#### online e runner run hoyeche
+![](https://imgur.com/RB4MSsr.png)
