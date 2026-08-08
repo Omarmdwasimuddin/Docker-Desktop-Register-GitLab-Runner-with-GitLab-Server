@@ -78,4 +78,8 @@ docker
 ```bash
 docker
 ```
+#### Enter the default Docker image (for example, ruby:3.3):
+```bash
+alpine:latest
+```
 ---
