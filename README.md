@@ -1,4 +1,4 @@
-# Docker Desktop: Register GitLab Runner with GitLab Server [GitLab Runner setup]
+# Docker Desktop: GitLab Runner Setup and Registration
 
 #### docker-compose.yml
 > hostname: my-gitlab-server , restart: always add koro ar new server add koro nam daw gitlab-runner
