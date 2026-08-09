@@ -131,3 +131,11 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
     privileged: true
 ```
+#### vs terminal e daw
+```bash
+docker compose down
+```
+```bash
+docker compose up -d
+```
+---
